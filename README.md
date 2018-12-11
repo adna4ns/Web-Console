@@ -7,7 +7,7 @@ The application is very light, does not require any database and can be installe
 
 If you like Web Console, please consider an opportunity to support it on [Patreon](https://www.patreon.com/nickola).
 
-![Web Console](https://imgur.com/a9kcAB1)
+![Web Console](https://i.imgur.com/a9kcAB1.jpg)
 
 # Installation
 
